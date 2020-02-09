@@ -1,0 +1,13 @@
+*.xml
+*.1CD
+*.cfl
+*.1CL
+*.cgr
+*.cf
+*.dt
+*.lgf
+*.lgp
+
+!*ext/*.xml
+1Cv8Log/*
+1Cv8Log/*
