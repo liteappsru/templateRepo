@@ -7,6 +7,8 @@
 *.dt
 *.lgf
 *.lgp
+*.epf
+*.erf
 
 !*ext/*.xml
 1Cv8Log/*
