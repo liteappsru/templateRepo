@@ -9,6 +9,7 @@
 *.epf
 *.erf
 
+!bin/
 bin/*
 
 1Cv8Log/*
