@@ -9,7 +9,8 @@
 *.epf
 *.erf
 
-!*ext/*.xml
+bin/*
+
 1Cv8Log/*
 1Cv8Log/*
 1CHelpIndex/*
