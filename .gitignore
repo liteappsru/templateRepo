@@ -9,9 +9,6 @@
 *.epf
 *.erf
 
-!bin/
-bin/*
-
 1Cv8Log/*
 1Cv8Log/*
 1CHelpIndex/*
