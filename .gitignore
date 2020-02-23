@@ -6,8 +6,8 @@
 *.dt
 *.lgf
 *.lgp
-*.epf
-*.erf
+bin/*.epf
+bin/*.erf
 
 1Cv8Log/*
 1Cv8Log/*
